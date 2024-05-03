@@ -19,7 +19,6 @@ This project aims to conduct data analytics on PizzaHut's dataset using PostgreS
 *PgAdmin4 for PostgreSQL*
 
 ## TechStacks used
-### Excel
-### SQL
-### PostgreSQL Database
-### PgAdmin4
+Dataset : Pizzahut Sales and Orders data.csv
+Extract and Load : Pgadmin4 for PostgreSQL
+Data Analysis : SQL Query Writing
