@@ -14,3 +14,6 @@ This project aims to conduct data analytics on PizzaHut's dataset using PostgreS
 ![Excel CSV Data Sample](https://i.postimg.cc/RhT8Lb5R/Excel-Data-SS.png)
 *pizza_types.csv*
 
+### PgAdmin4 for PostgreSQL Data Analysis
+![PgAdmin4 Data Analysis](https://i.postimg.cc/c49f2yWn/Pg-Admin4-Data-Analysis.png)
+*PgAdmin4 for PostgreSQL*
