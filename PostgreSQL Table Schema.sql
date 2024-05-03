@@ -32,3 +32,7 @@ create table order_details (
 	foreign key (pizza_id)
 	references pizzas(pizza_id)
 	);
+
+-- Loading of Data into respective tables
+''' Loaded data.csv files into the tables using "Import/ Export data" wizard inbuilt in pgAdmin4 for PostgreSQL. Loaded csv files are provided in the repository
+with the respective table names	'''
