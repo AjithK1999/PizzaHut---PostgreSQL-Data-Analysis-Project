@@ -17,3 +17,9 @@ This project aims to conduct data analytics on PizzaHut's dataset using PostgreS
 ### PgAdmin4 for PostgreSQL Data Analysis
 ![PgAdmin4 Data Analysis](https://i.postimg.cc/c49f2yWn/Pg-Admin4-Data-Analysis.png)
 *PgAdmin4 for PostgreSQL*
+
+## TechStacks used
+### Excel
+### SQL
+### PostgreSQL Database
+### PgAdmin4
