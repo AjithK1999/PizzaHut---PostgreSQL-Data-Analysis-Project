@@ -8,3 +8,9 @@ This project aims to conduct data analytics on PizzaHut's dataset using PostgreS
 ## Database Schema Diagram 
 ![Database Schema](https://i.postimg.cc/vZ002s6C/Db-Visualizer-Schema-Diagram.png)
 *Generated using Dbvisualizer*
+
+## Screenshots
+### CSV Data Sample: Excel
+![Excel CSV Data Sample](https://i.postimg.cc/RhT8Lb5R/Excel-Data-SS.png)
+*pizza_types.csv*
+
