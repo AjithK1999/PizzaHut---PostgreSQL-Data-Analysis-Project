@@ -20,5 +20,7 @@ This project aims to conduct data analytics on PizzaHut's dataset using PostgreS
 
 ## TechStacks used
 Dataset : Pizzahut Sales and Orders data.csv
+
 Extract and Load : Pgadmin4 for PostgreSQL
+
 Data Analysis : SQL Query Writing
