@@ -118,10 +118,10 @@
 						  from order_details od
 						  join pizzas p on od.pizza_id = p.pizza_id
 						 )*100,2) as percentage_of_revenue
-		from order_details od
-		join pizzas p on od.pizza_id = p.pizza_id
-		join pizza_types pt on p.pizza_type_id = pt.pizza_type_id
-		group by pt.category
+	from order_details od
+	join pizzas p on od.pizza_id = p.pizza_id
+	join pizza_types pt on p.pizza_type_id = pt.pizza_type_id
+	group by pt.category
 	 
 -- Analyze the cumulative revenue generated over time.
 
