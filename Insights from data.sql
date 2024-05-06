@@ -86,7 +86,9 @@
   	select 
     		round(avg(sum_orders_per_day)) as average_orders_per_day
   	from(
-      	     select o.order_date as day, sum(od.quantity) as sum_orders_per_day
+      	     select
+		o.order_date as day, 
+		sum(od.quantity) as sum_orders_per_day
 	     from orders o
 	     join order_details od on o.order_id = od.order_id
 	     group by o.order_date
