@@ -161,4 +161,3 @@
 		order by category, revenue desc 
 		)
 	where position in (1,2,3);
-
